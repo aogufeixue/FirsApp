@@ -41,16 +41,6 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	1875D1201313A14E00B639AB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* FirstAppAppDelegate.m */;
-		name = "FirstAppAppDelegate.m: 17";
-		rLen = 0;
-		rLoc = 266;
-		rType = 0;
-		vrLen = 246;
-		vrLoc = 0;
-	};
 	1875D12A1313A16500B639AB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* FirstAppAppDelegate.m */;
@@ -61,11 +51,21 @@
 		vrLen = 336;
 		vrLoc = 213;
 	};
+	1875D1341313A25A00B639AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FirstAppAppDelegate.m */;
+		name = "FirstAppAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 137;
+	};
 	1D3623250D0F684500981E51 /* FirstAppAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {810, 1248}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1014}}";
 			sepNavSelRange = "{266, 0}";
-			sepNavVisRange = "{213, 336}";
+			sepNavVisRange = "{137, 183}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* FirstApp */ = {
@@ -108,12 +108,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 320053602;
-			PBXWorkspaceStateSaveDate = 320053602;
+			PBXPerProjectTemplateStateSaveDate = 320053844;
+			PBXWorkspaceStateSaveDate = 320053844;
 		};
 		perUserProjectItems = {
-			1875D1201313A14E00B639AB /* PBXTextBookmark */ = 1875D1201313A14E00B639AB /* PBXTextBookmark */;
 			1875D12A1313A16500B639AB /* PBXTextBookmark */ = 1875D12A1313A16500B639AB /* PBXTextBookmark */;
+			1875D1341313A25A00B639AB /* PBXTextBookmark */ = 1875D1341313A25A00B639AB /* PBXTextBookmark */;
 		};
 		sourceControlManager = 1875D0AC13138F5E00B639AB /* Source Control */;
 		userBuildSettings = {
