@@ -5,8 +5,6 @@
 //  Created by James Wei on 11-2-22.
 //  Copyright 2011 Macroplant. All rights reserved.
 //
-
-
 // xjw
 #import "FirstAppAppDelegate.h"
 
@@ -14,7 +12,7 @@
 
 @synthesize window;
 
-
+// Test...
 #pragma mark -
 #pragma mark Application lifecycle
 
