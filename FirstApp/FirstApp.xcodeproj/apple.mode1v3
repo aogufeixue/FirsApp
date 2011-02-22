@@ -327,7 +327,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1875D15D1313D52C00B639AB</string>
+										<string>1875D13E1313A26700B639AB</string>
 										<key>history</key>
 										<array>
 											<string>1875D10C1313A02000B639AB</string>
@@ -388,9 +388,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1875D15E1313D52C00B639AB</string>
+				<string>1875D13F1313A26700B639AB</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>1875D15F1313D52C00B639AB</string>
+				<string>1875D1401313A26700B639AB</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -529,7 +529,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>1875D0AA13138F5E00B639AB</string>
-		<string>/Volumes/FilesStore/GitTower/FirstApp/FirstApp.xcodeproj</string>
+		<string>/Volumes/FilesStore/feiPhoneGit/FirstApp/FirstApp.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>326 308 788 504 0 0 1440 878 </string>
@@ -609,7 +609,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1875D0AA13138F5E00B639AB</string>
-				<string>1875D1601313D52C00B639AB</string>
+				<string>1875D1411313A26700B639AB</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
